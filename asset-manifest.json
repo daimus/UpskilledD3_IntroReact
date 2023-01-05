@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/UpskilledD3_IntroReact/static/css/main.e6db41ec.css",
+    "main.js": "/UpskilledD3_IntroReact/static/js/main.b16a36b7.js",
+    "static/js/787.36ea19e1.chunk.js": "/UpskilledD3_IntroReact/static/js/787.36ea19e1.chunk.js",
+    "static/media/bg-img.png": "/UpskilledD3_IntroReact/static/media/bg-img.88b23adfd8288d453515.png",
+    "static/media/charles-rRWiVQzLm7k-unsplash.jpg": "/UpskilledD3_IntroReact/static/media/charles-rRWiVQzLm7k-unsplash.0b577bcecacb6a749d39.jpg",
+    "static/media/matthew-hamilton-tNCH0sKSZbA-unsplash.jpg": "/UpskilledD3_IntroReact/static/media/matthew-hamilton-tNCH0sKSZbA-unsplash.528858228396f1389330.jpg",
+    "index.html": "/UpskilledD3_IntroReact/index.html",
+    "main.e6db41ec.css.map": "/UpskilledD3_IntroReact/static/css/main.e6db41ec.css.map",
+    "main.b16a36b7.js.map": "/UpskilledD3_IntroReact/static/js/main.b16a36b7.js.map",
+    "787.36ea19e1.chunk.js.map": "/UpskilledD3_IntroReact/static/js/787.36ea19e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6db41ec.css",
+    "static/js/main.b16a36b7.js"
+  ]
+}
